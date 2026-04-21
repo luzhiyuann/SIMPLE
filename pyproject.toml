@@ -18,5 +18,3 @@ wheel.packages = ["python/pysimple"]
 wheel.install-dir = "pysimple"
 wheel.exclude = []
 
-[project.package-data]
-pysimple = ["data/*.dat"]
